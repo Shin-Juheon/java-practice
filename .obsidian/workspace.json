@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa88abed689bed1e",
+        "id": "42aed1b8321947f4",
         "type": "tabs",
         "children": [
           {
-            "id": "9ccc7530cb879246",
+            "id": "d3d7bd631f172ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,6 +168,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9ccc7530cb879246",
-  "lastOpenFiles": []
+  "active": "fc4aa8535917d29f",
+  "lastOpenFiles": [
+    "READMEr.md",
+    "README.md",
+    "무제.md"
+  ]
 }
