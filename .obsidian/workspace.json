@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e1fd2f02a8d5819b",
@@ -170,6 +170,8 @@
   },
   "active": "4996621d2f80275d",
   "lastOpenFiles": [
+    "중간고사.md",
+    "README.md",
     "XOR/out/production/XOR/Main.class",
     "XOR/out/production/XOR",
     "XOR/src/Main.java",
@@ -178,8 +180,6 @@
     "XOR/src",
     "XOR/out",
     "XOR",
-    "중간고사.md",
-    "README.md",
     "READMEr.md"
   ]
 }
