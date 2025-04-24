@@ -13,5 +13,7 @@ public class Main {
         price = sc.nextInt();
 
         System.out.println(product + "는" + price + "원입니다.");
+
+        sc.close();
     }
 }
