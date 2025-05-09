@@ -18,6 +18,10 @@ public class Main {
             System.out.println("4. 종료");
             System.out.println("메뉴 선택: ");
 
+            //사용자 입력받기
+            choice = sc.nextInt();
+            sc.nextLine();
+
         }
     }
 }
