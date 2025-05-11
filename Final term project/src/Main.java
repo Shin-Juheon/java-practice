@@ -22,6 +22,13 @@ public class Main {
             choice = sc.nextInt();
             sc.nextLine();
 
-        }
+            // 작업 수행
+            switch (choice) {
+                case 1:
+                    //할일 추가
+                    System.out.print("추가할 할 일 입력: ");
+            }
+
+        }ㅂ
     }
 }
