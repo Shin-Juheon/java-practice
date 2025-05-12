@@ -25,35 +25,4 @@ public class Main {
             // 작업 수행
             switch (choice) {
                 case 1:
-                    // 할 일 추가
-                    System.out.print("추가할 할 일 입력: ");
-                    String task = sc.nextLine();
-                    addTask(task);
-                    break;
-                case 2:
-                    // 할 일 삭제
-                    deleteTask(scanner);
-                    break;
-                case 3:
-                    // 저장된 할 일 보기
-                    viewTasks();
-                    break;
-                case 4:
-                    // 프로그램 종료
-                    System.out.println("프로그램을 종료합니다.");
-                    break;
-                default:
-                    // 잘못된 입력 처리
-                    System.out.println("잘못된 선택입니다. 다시 시도해주세요.");
-            }
-        } while (choice != 4); // 4번(종료)을 선택할 때까지 반복
-
-        sc.close(); // Scanner 해제
-    }
-
-    // 할 일 추가
-    private static void addTask(String task) {
-        todoList.add(task); // 리스트 끝에 새로운 할 일 추가
-        System.out.println("할 일이 추가되었습니다:  " + task);
-    }
-}
+            
