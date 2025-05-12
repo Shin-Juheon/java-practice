@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f04fbc5da0eaa6e",
+        "id": "c00ec3e4f5fd94bd",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb28b9d333a79d2",
+            "id": "3db4b0b4bd5a6e70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fdb28b9d333a79d2",
+  "active": "3db4b0b4bd5a6e70",
   "lastOpenFiles": [
     "README.md",
     "중간고사.md",
