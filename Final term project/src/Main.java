@@ -25,8 +25,9 @@ public class Main {
                 case 1:
                     System.out.print("추가할 할 일 입력: ");
 
+                case 2:
 
-
+                case 3:
 
 
                 case 6:
