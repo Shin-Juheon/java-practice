@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     // 메모 저장 리스트
-    private static ArrayList<String> memo = new ArrayList<>();
+    static ArrayList<String> memo = new ArrayList<>();
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
