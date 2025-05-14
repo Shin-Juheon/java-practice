@@ -13,7 +13,7 @@ public class Main {
             System.out.println("--- 할 일 관리 ---");
             System.out.println("1. 할 일 추가");
             System.out.println("2. 할 일 삭제");
-            System.out.println("3. 할 일 보기");
+            System.out.println("3. 할 일 목록");
             System.out.println("4. 종료");
             System.out.println("메뉴 선택: ");
 
@@ -34,6 +34,6 @@ public class Main {
                     System.out.println("프로그램을 종료합니다.");
                     break;
                 default:
-                    System.out.println("잘못된 선택입니다. 다시 시도해주세요.");
+                    System.out.println("옳은 번호로 다시 시도해주세요.");
             }
         } while (choice != 6);
