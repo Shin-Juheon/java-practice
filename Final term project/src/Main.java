@@ -37,3 +37,5 @@ public class Main {
                     System.out.println("옳은 번호로 다시 시도해주세요.");
             }
         } while (choice != 6);
+    }
+}
