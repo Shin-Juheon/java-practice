@@ -12,10 +12,11 @@ public class Main {
             num = sc.nextInt();
             if (num >= 0) {
                 total += num;
-            } else
-            System.out.print("입력된 점수가 없습니다.");
+                System.out.println("점수의 총합은: [" + total + "]");
+            } else {
+                System.out.print("입력된 점수가 없습니다.");
                 break;
+            }
         }
-        System.out.print("점수의 총합은: [" + total + "]");
     }
 }
